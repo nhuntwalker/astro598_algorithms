@@ -5,7 +5,6 @@
 # Useful bc you can dynamically increase the size of your
 #     data structure without worry
 
-#node n;
 class LinkedList(object):
     #we don't delete at tail because we have to traverse
     #the entire list up to the second to last node
